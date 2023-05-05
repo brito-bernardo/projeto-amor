@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projeto-amor/static/css/main.4a4a738a.css",
+    "main.js": "/projeto-amor/static/js/main.3199b16b.js",
+    "static/js/787.78be0d75.chunk.js": "/projeto-amor/static/js/787.78be0d75.chunk.js",
+    "static/media/pic1.PNG": "/projeto-amor/static/media/pic1.1be100152625233e1e26.PNG",
+    "static/media/pic2.JPG": "/projeto-amor/static/media/pic2.b858250d67ded5360441.JPG",
+    "static/media/pic4.JPG": "/projeto-amor/static/media/pic4.4b3946fbd96cffa0b377.JPG",
+    "static/media/pic6.JPG": "/projeto-amor/static/media/pic6.aa30ca9dda8f3be86e48.JPG",
+    "static/media/background-ela.jpeg": "/projeto-amor/static/media/background-ela.0638489c072d0e52fab2.jpeg",
+    "static/media/pic3.JPG": "/projeto-amor/static/media/pic3.f2fc405c254d634addef.JPG",
+    "static/media/pic5.JPG": "/projeto-amor/static/media/pic5.73612a087b51a25d18fb.JPG",
+    "static/media/natal.jpeg": "/projeto-amor/static/media/natal.cd40d23f226f897eee5e.jpeg",
+    "static/media/terra.avif": "/projeto-amor/static/media/terra.d22d9e7fc1532470f4a7.avif",
+    "static/media/us-icon.png": "/projeto-amor/static/media/us-icon.a575ef6935b21d34dc48.png",
+    "index.html": "/projeto-amor/index.html",
+    "main.4a4a738a.css.map": "/projeto-amor/static/css/main.4a4a738a.css.map",
+    "main.3199b16b.js.map": "/projeto-amor/static/js/main.3199b16b.js.map",
+    "787.78be0d75.chunk.js.map": "/projeto-amor/static/js/787.78be0d75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a4a738a.css",
+    "static/js/main.3199b16b.js"
+  ]
+}
